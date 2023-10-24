@@ -1,4 +1,4 @@
-# main links links
+s# main links links
 main:
   #- title: "Publications"
     #url: /publications/
@@ -9,14 +9,14 @@ main:
   #- title: "Teaching"
     #url: /teaching/    
     
- # - title: "Portfolio"
-    #url: /portfolio/
+  - title: "Projects"
+    #url: /projects/
         
  # - title: "Blog Posts"
     #url: /year-archive/
     
   - title: "CV"
-    url: /files/SzeYan-CV.pdf
+    url: /files/Resume_F.pdf
     
   #- title: "Guide"
     #url: /markdown/
